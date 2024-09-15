@@ -1,0 +1,24 @@
+name: LuxuryPvP
+main: core.luxury.PvPPlugin
+version: 1.0.1
+api-version: 1.13
+author: Hadi
+commands:
+  fix:
+    description: "To avoid glitches"
+    usage: /fix
+  spectate:
+    description: "Toggle spectate mode for a player."
+    usage: /spectate
+  spawn:
+    description: "Teleport to the spawn point"
+    permission: luxury.spawn
+    usage: /spawn
+  spawnp:
+    description: "Set the global spawn point"
+    permission: luxury.spawn
+    usage: /spawnp
+  luxuryreload:
+    description: "Reloads the plugin configuration files"
+    permission: luxury.reload
+    usage: /luxuryreload

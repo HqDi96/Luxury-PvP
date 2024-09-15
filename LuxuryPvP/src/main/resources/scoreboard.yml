@@ -1,0 +1,13 @@
+scoreboard:
+  playing:
+    title: "&aLuxury &ex &aPvP"
+    lines:
+      - "&8> &aKills: &e{kills}"
+      - "&8> &aDeaths: &e{deaths}"
+      - "&8> &aKillstreak: &e{killstreak}"
+      - "&8> &aTop Killstreak: &e{topKillstreak}"
+  spectating:
+    title: "&aLuxury &ex &aPvP"
+    lines:
+      - "&8> &c&lPlayers Online: 1"
+      - "&m&------------------------"

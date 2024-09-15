@@ -1,0 +1,9 @@
+mysql:
+  host: "localhost"
+  port: 3306
+  database: "pvp_database"
+  username: "root"
+  password: "password"
+
+combat:
+  tag_duration: 15 # in seconds
